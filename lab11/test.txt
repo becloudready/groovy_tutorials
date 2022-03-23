@@ -1,0 +1,2 @@
+Welcome to Groovy Training
+Hello world
