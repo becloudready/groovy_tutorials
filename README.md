@@ -1,24 +1,20 @@
 # groovy_tutorials
 
-# Steps to install groovy using SDK
+## Steps to install groovy using SDK
 
-# Step1
+Step1
 ---
     $ curl -s get.sdkman.io | bash
----
 
-# Step2 
+Step2 
 ---
     source "$HOME/.sdkman/bin/sdkman-init.sh"
----
 
-# Step3
+Step3
 ---
     sdk install groovy
----
 
-# Step4
+Step4
 ---
     groovy -version
----
 
